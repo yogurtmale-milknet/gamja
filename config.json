@@ -1,0 +1,7 @@
+{
+	"server": {
+		"url": "wss://ircws.telepath.im",
+		"nick":"milknet-wusyaname",
+		"autojoin": "#wave"
+	}
+}
