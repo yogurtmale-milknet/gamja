@@ -2,6 +2,6 @@
 	"server": {
 		"url": "wss://ircws.telepath.im",
 		"nick":"milky-*",
-		"autojoin": "#wave"
+		"autojoin": "#milknet-room"
 	}
 }
